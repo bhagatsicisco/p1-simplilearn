@@ -1,1 +1,1 @@
-full db from db branch
+half db in main
